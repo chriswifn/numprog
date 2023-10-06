@@ -244,8 +244,7 @@ Das ist eine allgemeine Anleitung. Der Username und Repo Name sind immer noch of
 
 6. Die Original Repo muss als **remote** hinzugefuegt werden, dass sie spaeter Aenderungen **fetchen**/**clonen** koennen. Stellen sie sicher, dass sie **push** auf diesen **upstream** ausstellen. Sie werden sowieso nicht die Berechtigung dazu haben, aber **best practice** ist angesagt.
    ```bash
-   $ git remote add upstream git@github.com:<USERNAME>/<REPO_NAME>.git
-
+   $ git remote add upstream https://github.com/<USERNAME>/<REPO_NAME>.git
    ```
    Wobei hier dieser **remote** einfach als **upstream** betitelt wird.
    Wenn sie eine Liste aller **remotes** wollen, fuehren sie den Befehl
