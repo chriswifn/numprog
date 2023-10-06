@@ -239,7 +239,7 @@ Das ist eine allgemeine Anleitung. Der Username und Repo Name sind immer noch of
 
 5. Cloned eure private Repository. Dieser Ordner sollte irgendwo abgespeichert werden, wo es Sinn macht.
    ```bash
-   $ git clone git@github.com:<YOUR_USERNAME>/<REPO_NAME>.git
+   $ git clone git@github.com:<YOUR_USERNAME>/<REPO_NAME>
    ```
 
 6. Die Original Repo muss als **remote** hinzugefuegt werden, dass sie spaeter Aenderungen **fetchen**/**clonen** koennen. Stellen sie sicher, dass sie **push** auf diesen **upstream** ausstellen. Sie werden sowieso nicht die Berechtigung dazu haben, aber **best practice** ist angesagt.
