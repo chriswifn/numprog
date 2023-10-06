@@ -1,6 +1,7 @@
-% Numerik Matlab WS2324
-
 # Numerik Programmieraufgaben WiSe 2023/2024
+
+Fuer die Abgaben sind nur die 2 untersten Sections wichtig. Alles darueber sind generelle Anleitungen, die sie ignorieren koennen, wenn sie wissen, was **Git** ist und wie es funktioniert.
+
 Das was im folgenden beschrieben wird ist eine technische Dokumentation und sollte dementsprechend gelesen werden.
 
 Die Numerik Programmieraufgaben dieses Semester werden anders ablaufen als in den vorherigen Semestern. Es wird keine Abgabe per E-Mail geben.
