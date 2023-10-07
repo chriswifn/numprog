@@ -258,7 +258,16 @@ Das ist eine allgemeine Anleitung. Der Username und Repo Name sind immer noch of
    $ git fetch upstream
    $ git rebase upstream/<BRANCH_YOU_WANT_TO_FETCH>
    ```
-   Wenn sie Aenderungen auf ihrem **PRIVATEN** remote abspeichern wollen:
+   Es kann sein, je nachdem wie bzw. wann sie diesen **Rebase** durchfuehren, dass ihr branch `origin/<BRANCH_NAME>` und ihr lokaler `<BRANCH_NAME>` divergieren, d.h. sie muessen erst einen pull durchfuehren, wenn sie weiter machen wollen:
+   ```bash
+   git pull
+   ```
+   Wenn an dieser Stelle eine Error-Meldung angezeigt wird, liegt das daran, dass sie eine Strategie festlegen muessen:
+   ```bash
+   git config pull.rebase false
+   ```
+   sollte diesen Error beheben.
+   Wenn sie dann die Aenderungen auf ihrem **PRIVATEN** remote abspeichern wollen:
    ```bash
    $ git push origin <BRANCH_YOU_WANT_TO_PUSH_TO>
    ```
