@@ -260,11 +260,11 @@ Das ist eine allgemeine Anleitung. Der Username und Repo Name sind immer noch of
    ```
    Es kann sein, je nachdem wie bzw. wann sie diesen **Rebase** durchfuehren, dass ihr branch `origin/<BRANCH_NAME>` und ihr lokaler `<BRANCH_NAME>` divergieren, d.h. sie muessen erst einen pull durchfuehren, wenn sie weiter machen wollen:
    ```bash
-   git pull
+   $ git pull
    ```
    Wenn an dieser Stelle eine Error-Meldung angezeigt wird, liegt das daran, dass sie eine Strategie festlegen muessen:
    ```bash
-   git config pull.rebase false
+   $ git config pull.rebase false
    ```
    sollte diesen Error beheben.
    Wenn sie dann die Aenderungen auf ihrem **PRIVATEN** remote abspeichern wollen:
