@@ -258,7 +258,7 @@ Das ist eine allgemeine Anleitung. Der Username und Repo Name sind immer noch of
    $ git fetch upstream
    $ git rebase upstream/<BRANCH_YOU_WANT_TO_FETCH>
    ```
-   Es kann sein, je nachdem wie bzw. wann sie diesen **Rebase** durchfuehren, dass ihr branch `origin/<BRANCH_NAME>` und ihr lokaler `<BRANCH_NAME>` divergieren, d.h. sie muessen erst einen pull durchfuehren, wenn sie weiter machen wollen:
+   Es kann sein, je nachdem wie bzw. wann sie diesen **Rebase** durchfuehren, dass ihr **remote** Branch `origin/<BRANCH_NAME>` und ihr **lokaler** `<BRANCH_NAME>` divergieren, d.h. sie muessen erst einen pull durchfuehren, wenn sie weiter machen wollen:
    ```bash
    $ git pull
    ```
