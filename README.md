@@ -298,6 +298,11 @@ $ git rebase upstream/pa1
 Dann koennen sie Dateien nach der Beschreibung in der Aufgabenstellung erstellen.
 
 **WICHTIG**: Ich werde eine `.gitignore` Datei einrichten, die Dateinamen die nicht exakt der Aufgabenstellung entsprechen fuer die `git` Repository ignorieren wird. D.h. wenn sie die Dateien nicht exakt so benennen wie in der Aufgabenstellung, wird die Abgabe automatisch nicht akzeptiert, d.h. mit 0 Punkten bewertet. Wenn die `.gitignore` Datei von ihnen geaendert wird, wird die Abgabe ebenfalls mit 0 Punkten bewertet werden.
+Wenn sie testen wollen, ob ihre Dateien getracked werden, koennen sie das so testen:
+```bash
+git ls-tree --full-tree --name-only -r <BRANCH_NAME>
+```
+Wenn die Dateien, die sie abgeben wollen nicht in dieser Liste vorhanden sind, dann haben sie falsche Namen benutzt.
 
 Danach `pushen` sie ihre Loesung auf den `origin` ihres privaten Forks:
 
