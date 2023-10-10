@@ -30,6 +30,8 @@ Mit dem aktuellen Trend in Richtung **Cloud Services** kann es gut sein, dass si
 
 ## Umgebung fuer `git`
 
+**DISCLAIMER**: **Git** muss nicht manuell ueber `git` umgesetzt werden. Alternativen sind GitHub Desktop oder Git-Bash
+
 ### Windows (1)
 **DISCLAIMER**: Es braucht kein `wsl` fuer **Git**, aber es ist entspannter meiner Meinung nach.
 Windows ist **KEINE** Umgebung fuer Software-Entwicklung. Gluecklicherweise ist das selbst Microsoft bekannt. Deswegen stellt Microsoft seit einigen Jahren eine virtuelle **Linux** Integration bereit, die voll in Windows integriert ist. Siehe [hier](https://learn.microsoft.com/de-de/windows/wsl/install)
