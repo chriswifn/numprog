@@ -317,6 +317,6 @@ Der Punkt in `git add .` steht fuer alle nicht getrackten Dateien. Wenn sie einz
 
 Sie koennen so viele Commits machen wie sie wollen. Es wird sogar bevorzugt, haeufig commits zu machen, weil diese als Checkpoints benutzt werden koennen, falls sie aus Versehen Aenderungen vornehmen, die sie wieder rueckgaengig machen wollen.
 
-**WICHTIG**: Da ihr Fork **privat** sein wird, muss der Korrektur GitHub Account zu ihrer privaten Repository als **Contributer** hinzugefuegt werden. Der Account wird nicht bekannt gegeben. Das kann in den Einstellungen der Repository auf der GitHub Website vorgenommen werden. Der Name des Korrektur-Accounts wird ihnen rechtzeitig mitgeteilt.
+**WICHTIG**: Da ihr Fork **privat** sein wird, muss der Korrektur GitHub Account zu ihrer privaten Repository als **Contributer** hinzugefuegt werden. Der Account wird noch bekannt gegeben. Das kann in den Einstellungen der Repository auf der GitHub Website vorgenommen werden. Der Name des Korrektur-Accounts wird ihnen rechtzeitig mitgeteilt.
 
 Ich werde dann, wenn die Bewertung abgeschlossen ist, in die `README.md` Datei die Punktzahl eintragen und die Aenderungen `pushen`. Dann koennen sie ihre Punktzahl in der `README.md` Datei einsehen.
