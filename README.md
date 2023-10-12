@@ -315,7 +315,7 @@ $ git commit -m "Solution to pa1"
 $ git push origin pa1
 ```
 
-Der Punkt in `git add .` steht fuer alle nicht getrackten Dateien. Wenn sie einzelne Dateien auswaehlen wollen, koennen sie auch einzeln hinzufuegen.
+Der Punkt in `git add .` steht fuer alle nicht getrackten Dateien oder geaenderte Dateien. Wenn sie einzelne Dateien auswaehlen wollen, koennen sie auch einzeln hinzufuegen.
 
 Sie koennen so viele Commits machen wie sie wollen. Es wird sogar bevorzugt, haeufig commits zu machen, weil diese als Checkpoints benutzt werden koennen, falls sie aus Versehen Aenderungen vornehmen, die sie wieder rueckgaengig machen wollen.
 
