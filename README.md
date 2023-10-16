@@ -1,5 +1,7 @@
 # Numerik Programmieraufgaben WiSe 2023/2024
 
+**Diese Form der Abgabe gilt erst ab der 2. Programmieraufgabe!!!**
+
 Fuer die Abgaben sind nur die 2 untersten Sections wichtig. Alles darueber sind generelle Anleitungen, die sie ignorieren koennen, wenn sie wissen, was **Git** ist und wie es funktioniert.
 
 Das was im folgenden beschrieben wird ist eine technische Dokumentation und sollte dementsprechend gelesen werden.
