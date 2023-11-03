@@ -1,5 +1,9 @@
 # Numerik Programmieraufgaben WiSe 2023/2024
 
+**Alles was hier steht ignorieren, es wird ueber GitHub Templates geloest.
+Anleitung folgt spaeter**
+
+
 **Diese Form der Abgabe gilt erst ab der 2. Programmieraufgabe!!!**
 **Die erste Abgabe erfolgt wie normal per E-Mail an `progtutor(at)na.uni-tuebingen.de`**
 
