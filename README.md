@@ -23,8 +23,6 @@ Generelle Anleitung:
    ![](./assets/231103202605.png)
 1. Namen auf `num23` setzen, `Private` auswaehlen und mit Create repository bestaetigen
    ![](./assets/231103202908.png)
-   Ignorieren Sie den Namen bei Repository template, der ist nur zur Demonstration hier, der wird spaeter anders heissen. Ich kann das nur nicht selber testen weil ich keine 2 GitHub Accounts habe.
-   `rwxrob` hat mit der Numerik nichts zu tun.
 1. Repository lokal mit GitHub Desktop `clonen`
 
 # Vorgehen bei den Abgaben
