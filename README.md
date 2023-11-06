@@ -3,6 +3,7 @@
 **🛑 Diese Form der Abgabe gilt erst ab der 2. Programmieraufgabe!**
 
 **🛑 Die erste Abgabe erfolgt wie normal per E-Mail an `progtutor(at)na.uni-tuebingen.de`**
+Wenn sie das Verfahren vorher schonmal testen wollen, koennen sie das mit diesem [Template](https://github.com/chriswifn/num23_pa1) machen.
 
 
 # GitHub account erstellen
