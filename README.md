@@ -23,10 +23,10 @@ Generelle Anleitung:
    ![](./assets/231103202605.png)
 1. Namen auf `num23` setzen, `Private` auswaehlen und mit Create repository bestaetigen
    ![](./assets/231103202908.png)
-1. Repository lokal mit GitHub Desktop `clonen`
+1. Repository lokal mit GitHub Desktop `clonen`. Anleitung siehe [hier](https://docs.github.com/de/desktop/adding-and-cloning-repositories/adding-a-repository-from-your-local-computer-to-github-desktop)
 
 # Vorgehen bei den Abgaben
 1. In das Verzeichnis eurer GitHub Repos gehen.
 1. In den Ordner zur Programmieraufgabe wechseln (`pa2` fuer Programmieraufgabe 2 bspw.)
 1. In diesem Unterordner die Dateien erstellen und befuellen (hoffentlich mit der Loesung zur Aufgabe)
-1. Uber GitHub Desktop die Dateien zur `Staging Area` hinzufuegen und mit `commit(s)` zur Repository hinzufuegen und anschliessend auf ihren privaten `remote` pushen.
+1. Uber GitHub Desktop die Dateien zur `Staging Area` hinzufuegen und mit `commit(s)` zur Repository hinzufuegen und anschliessend auf ihren privaten `remote` pushen. Anleitung siehe [hier](https://wiki.idec.io/team_wiki/push/)
