@@ -31,3 +31,9 @@ Generelle Anleitung:
 1. In den Ordner zur Programmieraufgabe wechseln (`pa2` fuer Programmieraufgabe 2 bspw.)
 1. In diesem Unterordner die Dateien erstellen und befuellen (hoffentlich mit der Loesung zur Aufgabe)
 1. Uber GitHub Desktop die Dateien zur `Staging Area` hinzufuegen und mit `commit(s)` zur Repository hinzufuegen und anschliessend auf ihren privaten `remote` pushen. Anleitung siehe [hier](https://wiki.idec.io/team_wiki/push/)
+
+# Korrektur Account als Collaborator hinzufuegen
+1. Auf dem `remote` auf GitHub auf Settings klicken
+1. Rechts oben direkt auf Collaborators klicken
+1. Add people auswaehlen
+1. Nach dem Namen `chriswifn` eingeben und hinzufuegen.
