@@ -22,7 +22,8 @@ Generelle Anleitung:
 1. Den Code Reiter oben auswaehlen
 1. Unter `Use this template` `Create a new repository` auswaehlen
    ![](./assets/231103202605.png)
-1. Namen auf `num23` setzen, `Private` auswaehlen und mit Create repository bestaetigen
+1. Namen auf `num23_lastname1_lastname2_lastname3` setzen, `Private` auswaehlen und mit Create repository bestaetigen
+   Dabei sind `lastname{n}` die Nachnamen der Teammitglieder. Wenn sie alleine abgeben, die letzen 2 einfach weg lassen.
    ![](./assets/231103202908.png)
 1. Repository lokal mit GitHub Desktop `clonen`. Anleitung siehe [hier](https://docs.github.com/de/desktop/adding-and-cloning-repositories/adding-a-repository-from-your-local-computer-to-github-desktop)
 
