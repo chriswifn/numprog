@@ -16,10 +16,9 @@ Sie muessen einen [GitHub](https://github.com) erstellen, um die Aufgaben abzuge
 1. Einfach dieser [Anleitung](https://docs.github.com/de/desktop/installing-and-authenticating-to-github-desktop/setting-up-github-desktop) folgen.
 
 # Repository anhand des Templates erstellen
-Das public template Repository steht noch nicht fest. Weitere Informationen folgen.
 
 Generelle Anleitung:
-1. Navigieren zu der public template Repository in ihrem Browser
+1. Navigieren zu der public template [Repository](https://github.com/chriswifn/num23_template) in ihrem Browser
 1. Den Code Reiter oben auswaehlen
 1. Unter `Use this template` `Create a new repository` auswaehlen
    ![](./assets/231103202605.png)
